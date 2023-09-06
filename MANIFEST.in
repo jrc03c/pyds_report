@@ -1,1 +1,2 @@
-include pyds_report/index.html
+include pyds_report/assets/index.html
+include pyds_report/assets/bulma/css/bulma.min.css
